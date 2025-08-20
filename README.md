@@ -23,8 +23,8 @@ Aqui está uma captura de tela do projeto:
 
 - **HTML5**
 - **CSS3**
-  - CSS Grid
-  - Flexbox
+- **CSS Grid**
+- **Flexbox**
 
  ## 📂 Como rodar o projeto
 
