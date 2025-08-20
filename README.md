@@ -7,7 +7,7 @@ O objetivo foi recriar o layout da landing page de forma responsiva e organizada
 
 Aqui está uma captura de tela do projeto:
 
-![Preview do site](./images/preview.png)
+![Preview do site](/Gif-tela.gif)
 
 ## 📌 Funcionalidades
 
